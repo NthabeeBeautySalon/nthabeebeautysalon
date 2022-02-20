@@ -1,0 +1,161 @@
+.nthabee{
+  width: 15%;
+  float: left;
+
+
+}
+
+#title {
+  background-color: #fdb9c8;
+  padding: 1% 15%;
+}
+
+.nav-item {
+
+  padding: 0 20px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-Thin";
+  color: black;
+}
+
+.vector{
+  width: 115%;
+  padding-top: 3.5rem;
+}
+
+.vec{
+  text-align: left;
+}
+
+.slogan{
+  font-family: "Montserrat";
+  color: white;
+  font-size: 7rem;
+  line-height: 1.5;
+
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+body{
+  font-family: "Montserrat";
+}
+
+.navbar{
+ padding-bottom: 15.5rem;
+}
+
+.tagline{
+  text-align: center;
+  padding-top: 5%;
+}
+
+#features {
+  padding: 0% 15%;
+  background-color: #eeeeee;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+
+p{
+  color: #8f8f8f;
+}
+
+h3{
+  font-family: "Montserrat-Bold"
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.feature-pics{
+  width: 70%;
+  margin-bottom: 1rem;
+}
+.feature-pics-m{
+  width: 83%;
+  margin-bottom: 1rem;
+}
+.feature-pics-n{
+  width: 93.7%;
+  margin-bottom: 1rem;
+}
+
+#aboutMe{
+  padding: 7% 15%;
+}
+
+.qoute{
+  background-color: white;
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+
+}
+.profilepic{
+  width: 50%;
+  padding-top: 8%;
+}
+
+.pp{
+  text-align: center;
+}
+
+.transtext{
+  font-size: 250%;
+  color: #fdb9c8;
+  padding: 0;
+}
+
+#cta{
+  padding-top: 0;
+  padding: 0% 15% 3% 15%;
+  background-color: #eeeeee;
+}
+.profilepicfooter{
+  width: 25%;
+}
+
+#footer{
+  padding: 1% 15%;
+  background-color: #fdb9c8;
+  text-align: center;
+}
+
+.footertext{
+  color: #fdb9c8;
+}
+
+.h3header{
+  color: #fdb9c8;
+}
+.footerpic{
+  text-align: center;
+}
+
+.socials{
+  margin: 20px 10px;
+  color: white;
+}
+
+.copy{
+  color: white;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+    color: white;
+}
+
+.footerlink{
+  color: black;
+}
