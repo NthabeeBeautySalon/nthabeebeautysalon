@@ -49,6 +49,7 @@ body{
 
 .navbar{
  padding-bottom: 15.5rem;
+ background-color: #fdb9c8;
 }
 
 .tagline{
@@ -159,4 +160,18 @@ a:hover, a:visited, a:link, a:active
 
 .footerlink{
   color: black;
+}
+
+.booking{
+  margin-right: 10%;
+
+
+}
+
+.btn{
+  margin-top: 10%;
+}
+
+.fa-solid{
+
 }
