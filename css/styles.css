@@ -307,17 +307,17 @@ textarea {
 
 .floating {
       position: fixed;
-      width: 120px;
-      height: 120px;
-      bottom: 80px;
-      right: 80px;
+      width: 60px;
+      height: 60px;
+      bottom: 40px;
+      right: 40px;
       background-color: #E04DB0;
       color: #fff;
-      border-radius: 100px;
+      border-radius: 50px;
       text-align: center;
-      font-size: 60px;
-      box-shadow: 4px 4px 6px #999;
-      z-index: 200;
+      font-size: 30px;
+      box-shadow: 2px 2px 3px #999;
+      z-index: 100;
     }
 
     .fab-icon {
