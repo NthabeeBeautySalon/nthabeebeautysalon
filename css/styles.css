@@ -38,8 +38,17 @@
   line-height: 1.5;
   padding-top: 10%;
   width: auto;
-
 }
+
+@media screen and (max-device-width: 480px)
+and (orientation: portrait) {
+  .slogan {
+    font-family: "Montserrat";
+    color: white;
+    font-size: 80px;
+    line-height: 100%;
+    padding-top: 30%;
+  }
 
 .container-fluid{
   padding: 3% 15%;
