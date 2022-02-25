@@ -49,6 +49,8 @@ and (orientation: portrait) {
     line-height: 100%;
     padding-top: 40%;
   }
+}
+
 
 .container-fluid{
   padding: 3% 15%;
