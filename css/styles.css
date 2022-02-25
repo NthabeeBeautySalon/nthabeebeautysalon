@@ -311,8 +311,8 @@ textarea {
       position: fixed;
       width: 60px;
       height: 60px;
-      bottom: 20px;
-      right: 10px;
+      bottom: 50px;
+      right: 7px;
       background-color: #fdb9c8;
       color: #fff;
       border-radius: 50px;
@@ -321,6 +321,7 @@ textarea {
       box-shadow: 2px 2px 3px #999;
       z-index: 100;
     }
+
 
     .fab-icon {
       margin-top: 16px;
