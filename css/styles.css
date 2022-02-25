@@ -47,7 +47,7 @@ and (orientation: portrait) {
     color: white;
     font-size: 70px;
     line-height: 100%;
-    padding-top: 30%;
+    padding-top: 40%;
   }
 
 .container-fluid{
@@ -309,8 +309,8 @@ textarea {
       position: fixed;
       width: 60px;
       height: 60px;
-      bottom: 40px;
-      right: 40px;
+      bottom: 30px;
+      right: 60px;
       background-color: #E04DB0;
       color: #fff;
       border-radius: 50px;
